@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Туваев Андрей</string>
+    <string name="phone_text">+7(920)009-49-76</string>
+    <string name="email_text">tuwaev.andrew@yandex.ru</string>
+    <string name="vk_text">https://vk.com/tuwaev</string>
+    <string name="self_text">В стране Ксанад благословенной ‎Дворец построил Кубла Хан,Где Альф бежит, поток священный,Сквозь мглу пещер гигантских, пенный.Впадает в сонный океан.</string>
+    <string name="rate_value_text">5</string>;
+    <string name="rating_text">Рейтинг</string>
+    <string name="code_strings_text">Написано строк кода</string>
+    <string name="code_strings_value_text">999</string>
+    <string name="project_text">Проектов</string>
+    <string name="project_value_text">5</string>
+    <string name="git_text">https://github.com/TuvAndr/DevIntensive</string>
 </resources>
